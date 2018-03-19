@@ -1,0 +1,17 @@
+{
+  "name": "@js/web-utils",
+  "version": "0.0.1",
+  "description": "utility function for the DOM and web",
+  "main": "index.js",
+  "author":
+    "jaga santagostino <jagasantagostino@gmail.com> (https://jagasantagostino.com)",
+  "license": "MIT",
+  "dependencies": {
+    "@types/invariant": "^2.2.29",
+    "invariant": "^2.2.4"
+  },
+  "devDependencies": {
+    "tslint": "^5.9.1",
+    "typescript": "^2.7.2"
+  }
+}
